@@ -1,7 +1,7 @@
 # encryption_decryption
 
 add below line in pubspec.yaml file
-<br/ >
+<br>
   encryption_decryption:<br/ >
     git:< br / >
       url: https://github.com/chaudharyselcom/encryption_decryption.git <br/ >
